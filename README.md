@@ -6,14 +6,14 @@ Projeto consiste na criação de um sistema onde possa mostrar a relação de po
 
 # Tecnologias
 - Linguagem(s) de Programação
-    PHP
+    1. PHP
 - Frameworks
-    Laravel 8
-    BootStrap 6
+    1. Laravel 8
+    2. BootStrap 6
 - Banco de Dados
-    MySQL
+    1. MySQL
 - Ferramentas
-    Visual Studio Code
-    MySQL WorkBench
+    1. Visual Studio Code
+    2. MySQL WorkBench
 # Autor(es)
     Luan Vinícios de Aguiar
